@@ -1,0 +1,30 @@
+.b{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+.r{
+    font-size: 15px;
+    color: black;
+}
+.a{
+    float: left;
+}
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+.r{
+    float: right;
+}
+body{
+    background-size: cover;
+}
+button{
+    font-size: 20px;
+    width: 120px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
